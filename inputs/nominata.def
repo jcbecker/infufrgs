@@ -26,8 +26,8 @@
 \providecommand{\nominataDirname}{Diretora do Instituto de Inform{\'a}tica}
 
 % PPGC
-\providecommand{\nominataCoordPPGC}{Prof.~Jo{\~a}o Luiz Dihl Comba}
-\providecommand{\nominataCoordnamePPGC}{Coordenador do PPGC}
+\providecommand{\nominataCoordPPGC}{Prof\textsuperscript{a}.~Luciana Salete Buriol}
+\providecommand{\nominataCoordnamePPGC}{Coordenadora do PPGC}
 
 % PGMicro
 \providecommand{\nominataCoordPGMICRO}{Prof.~Fernanda Gusm{\~a}o de Lima Kastensmidt}
@@ -46,11 +46,11 @@
 \providecommand{\nominataChefeINTname}{Chefe do \deptINT}
 
 % Graduação
-\providecommand{\nominataPRAG}{Prof.~Wladimir Pinheiro do Nascimento}
+\providecommand{\nominataPRAG}{Prof.~Vladimir Pinheiro do Nascimento}
 \providecommand{\nominataPRAGname}{Pr{\'o}-Reitor de Gradua{\c{c}}{\~a}o}
 
 %CIC
-\providecommand{\nominataCoordCIC}{Prof.~Raul Fernando Weber}
+\providecommand{\nominataCoordCIC}{Prof.~S{\'e}rgio Luis Cechin}
 \providecommand{\nominataCoordCICname}{Coordenador do Curso de Ci{\^e}ncia de Computa{\c{c}}{\~a}o}
 
 %ECP
